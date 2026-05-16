@@ -5,7 +5,6 @@ dnspython==2.2.1
 fastapi==0.78.0
 from-root==1.0.2
 httptools==0.5.0
-imblearn==0.0
 mypy-boto3-s3==1.24.76
 pip-chill==1.0.1
 pymongo==4.2.0
@@ -30,3 +29,5 @@ pyyaml>=6.0
 cython>=3.0
 setuptools>=70.0
 wheel>=0.42.0
+imbalanced-learn>=0.10.0
+evidently>=0.4.0
